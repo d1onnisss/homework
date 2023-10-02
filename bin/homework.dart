@@ -84,7 +84,7 @@ import 'package:test/test.dart';
   //     }
   //   }
 
-  // Четвертая задач
+  // Четвертая задача
 
   void main () {
     print(isSimple(10));
